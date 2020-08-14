@@ -1,0 +1,7 @@
+-r production.txt
+openapi-spec-validator==0.2.9
+pytest
+flask
+falcon
+starlette
+requests
